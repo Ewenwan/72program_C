@@ -1,3 +1,4 @@
+// 一组数输出杨辉三角
 #include <stdio.h>
 #include <stdlib.h>
 
